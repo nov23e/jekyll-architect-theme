@@ -1,7 +1,7 @@
 # Setup
 name:         Project or Site name (Architect Theme)
 tagline:      A responsive theme for your project on GitHub Pages
-baseurl:      ""
+baseurl:      "https://iswxp.github.io"
 locale:       "en"
 
 # Gems

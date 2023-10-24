@@ -1,7 +1,7 @@
 # Setup
 name:         Cyril Wong
 tagline:      Amateur coder // Good at Ctrl+V // "Write the bug, destroy the world" //
-baseurl:      "https://iswxp.github.io"
+baseurl:      "https://iswxp-github-io.vercel.app/"
 locale:       "en"
 
 # Gems

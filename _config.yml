@@ -1,7 +1,7 @@
 # Setup
 name:         Cyril's Blog
 tagline:      Amateur coder // Good at Ctrl+V // "Write the bug, destroy the world" //
-baseurl:      "https://for05.github.io/"
+baseurl:      "https://for05.github.io"
 locale:       "en"
 
 # Gems
